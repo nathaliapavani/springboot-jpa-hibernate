@@ -8,4 +8,4 @@
 <li>CRUD - Create, Retrieve, Update, Delete</li>
 <li>Tratamento de exceções </li>
 </ul>
-<p>Desenvolvido no Curso do Nelio Alvez https://www.udemy.com/course/java-curso-completo</p>
+<p>Desenvolvido no Curso do Nelio Alves https://www.udemy.com/course/java-curso-completo</p>
