@@ -1,3 +1,3 @@
 # springboot-jpa-hibernate
-<h2>Projeto do Curso do Nelio Alves de spring boot, jpa e hibernate</h2>
+<p> Projeto desenvolvido no curso do Nélio Alves </p>
 <p>https://www.udemy.com/course/java-curso-completo</p>
